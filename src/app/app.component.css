@@ -1,0 +1,26 @@
+.body{
+    background-color: #FCFAEF;
+}
+.example-icon {
+    color: #A63636;
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+  .mat-toolbar{
+    background-color: #FCFAEF;
+    color: #A63636;
+    border-bottom: 3px solid #A63636;
+  }
+
+  .example-container {
+    width: auto;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid #555;
+    /* The background property is added to clearly distinguish the borders between drawer and main
+       content */
+    background: #eee;
+  }
+  
